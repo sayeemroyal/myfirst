@@ -1,0 +1,19 @@
+h1{
+	width: 300px;
+	color: red;
+	background: blue;
+	padding: 5px;
+	border:2px solid pink;
+	text-align: center;
+	margin:2px auto;
+}
+
+h2{
+	width: 300px;
+	color: orange;
+	background: blue;
+	padding: 5px;
+	border:2px solid pink;
+	text-align: center;
+	margin:2px auto;
+}
